@@ -45,4 +45,5 @@ public:
 };
 ```
 
-![image](https://user-images.githubusercontent.com/64036955/168716411-477919cf-3a20-4959-a5ca-98bdb75918c5.png)
+![image](https://user-images.githubusercontent.com/64036955/168716411-477919cf-3a20-4959-a5ca-98bdb75918c5.png)   
+- [X] [follow-up problem](https://leetcode.com/problems/majority-element-ii)
