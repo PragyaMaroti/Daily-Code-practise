@@ -23,4 +23,4 @@ Based on approaches, the linked questions are as follows:
 
 
 3. Eular's Algorithm for GCD.
-- [Introduction]()
+- [Introduction](https://github.com/PragyaMaroti/Daily-Code-practise/blob/main/GCD/euclid's%20algorithm.md)
