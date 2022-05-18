@@ -19,7 +19,7 @@ for(int i=0; i<32; i++)
 If we use this, the time complexity would be proportional to O(N) in this problem.   
 
 We can observe a pattern below:   
-let n=11, then :
+let n=11, then:   
 ![image](https://user-images.githubusercontent.com/64036955/169027671-c4807f08-8375-4714-b8dd-83d9e03c9339.png)   
 till 7(111) we have a fixed number of total numbers of 1, which goes for every 2^k -1 as the limit to count.  
 It uses simple observation or P&C to say that it would be equal to:
