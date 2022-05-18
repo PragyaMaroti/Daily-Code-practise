@@ -24,3 +24,8 @@ Based on approaches, the linked questions are as follows:
 
 3. Eular's Algorithm for GCD.
 - [Introduction](https://github.com/PragyaMaroti/Daily-Code-practise/blob/main/GCD/euclid's%20algorithm.md)
+
+
+4. Recursion: 
+- [total number of set bits](https://github.com/PragyaMaroti/Daily-Code-practise/blob/main/bit%20manipulation/count%20total%20number%20of%20set%20bits.md)  
+
