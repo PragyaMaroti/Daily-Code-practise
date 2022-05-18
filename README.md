@@ -20,3 +20,7 @@ Based on approaches, the linked questions are as follows:
 
 2. Hash map:
 - [2 Sum](https://github.com/PragyaMaroti/Daily-Code-practise/blob/main/2%20pointers:%20brute-%20force%2C%20hash%20map%20and%20binary%20search%20approach.md)
+
+
+3. Eular's Algorithm for GCD.
+- [Introduction]()
