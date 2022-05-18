@@ -1,3 +1,7 @@
+![image](https://user-images.githubusercontent.com/64036955/169029127-211e9dd7-52b8-4d95-8b38-804a5db5ed4c.png)
+
+
+
 1. To check if a number is odd or even:
 
         If x & 1 = 0 then x is even 
@@ -42,4 +46,3 @@
         return subset;
         }
 
-6. 
