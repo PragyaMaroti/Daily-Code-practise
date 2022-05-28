@@ -31,4 +31,6 @@ Based on approaches, the linked questions are as follows:
 
 5. Sorting techniques:
 
-- [sorting](https://github.com/PragyaMaroti/Daily-Code-practise/blob/main/sorting.md): includes implementation of bubble sort, insertion sort, merge sort, radix sort
+- [sorting](https://github.com/PragyaMaroti/Daily-Code-practise/blob/main/sorting.md): includes implementation of bubble sort, insertion sort, merge sort, radix sort   
+
+6. Bit manipulation: [XOR's use](https://github.com/PragyaMaroti/Daily-Code-practise/blob/main/missing%20number.md)
