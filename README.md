@@ -29,3 +29,6 @@ Based on approaches, the linked questions are as follows:
 4. Recursion: 
 - [total number of set bits](https://github.com/PragyaMaroti/Daily-Code-practise/blob/main/bit%20manipulation/count%20total%20number%20of%20set%20bits.md)  
 
+5. Sorting techniques:
+
+- [sorting](https://github.com/PragyaMaroti/Daily-Code-practise/blob/main/sorting.md): includes implementation of bubble sort, insertion sort, merge sort, radix sort
