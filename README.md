@@ -33,4 +33,6 @@ Based on approaches, the linked questions are as follows:
 
 - [sorting](https://github.com/PragyaMaroti/Daily-Code-practise/blob/main/sorting.md): includes implementation of bubble sort, insertion sort, merge sort, radix sort   
 
-6. Bit manipulation: [XOR's use](https://github.com/PragyaMaroti/Daily-Code-practise/blob/main/missing%20number.md)
+6. Bit manipulation: 
+- [XOR's use](https://github.com/PragyaMaroti/Daily-Code-practise/blob/main/missing%20number.md)
+- [Merfing or BIT ORing to find duplicates](https://github.com/PragyaMaroti/Daily-Code-practise/commit/466c9e20da329eafb1b3c8c142222aa37d19f023)
