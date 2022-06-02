@@ -31,6 +31,7 @@ Constraints:
  * Definition for a binary tree node.
  * struct TreeNode {
  *     int val;
+ 
  *     TreeNode *left;
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
@@ -82,3 +83,7 @@ queue<TreeNode*> temp;
 - Results: 
 
 ![image](https://user-images.githubusercontent.com/64036955/171653252-fde43ba8-27a3-423a-b42c-535c7c2803a0.png)
+
+
+If the no. of nodes are n then worst case time complexity will be O(n).     
+Worst case space complexity will be O(maximum no. of leaf nodes).
