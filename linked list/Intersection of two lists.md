@@ -101,7 +101,7 @@ public:
 };
 ```
 
-Results:   
+- Results:   
 ![image](https://user-images.githubusercontent.com/64036955/172278248-baeba005-d701-4bd1-a855-c922ad0dabc6.png)   
 - Could be due to the different judging criteria ig, as it ran well in dry run, tested using cout statements.   
 
@@ -149,4 +149,7 @@ public:
 
 ```
 
+- Results:   
+
+![image](https://user-images.githubusercontent.com/64036955/172278768-ea12f402-2776-4f2b-9eb4-513b6ea43032.png)
 
