@@ -1,3 +1,6 @@
+[Link](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1#)
+
+
 ## Approach 1: Using STL
 ```cpp
 int kthSmallest(int arr[], int l, int r, int k) {
