@@ -114,3 +114,10 @@ public:
         
     }
 };
+```
+
+- Results:  
+
+![image](https://user-images.githubusercontent.com/64036955/173093750-9e59a0e1-3c1d-4c43-8bab-7ede606ef9ba.png)
+- A linear time soln.   
+
