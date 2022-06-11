@@ -67,8 +67,7 @@ public:
 };
 ```
 Results:  
-![image](https://user-images.githubusercontent.com/64036955/173190477-9332e920-973d-4fcb-a9ce-cbe70bae89a9.png)
-
+![image](https://user-images.githubusercontent.com/64036955/173190547-196daa30-42f7-4ae4-a2fe-480aa817f3b2.png)
 
 ⏰O(N)
 🗃️O(1)
