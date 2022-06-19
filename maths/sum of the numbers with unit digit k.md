@@ -1,4 +1,4 @@
-[Link](
+[Link](https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/)
 
 ### Problem Statement: 
 Given two integers num and k, consider a set of positive integers with the following properties:
@@ -41,7 +41,8 @@ Explanation: The sum of an empty set is considered 0.
 ### Solution: 
 
 💡 Sum of numbers with same one's digit 's one's digit can be pre-determined as the multiplication table of how many numbers we have taken. As these numbers can repeat as well, we start from the lower numbers to get minimum of them.      
-Therefore, to have a possible combinations of digits to get a sum as target, the one's digit  of target must match with one of the  multiples of 'K'. If such multiple is found, then we can distribute the rest numbers as we wish (multiples of 10).   
+💡Therefore, to have a possible combinations of digits to get a sum as target, the one's digit  of target must match with one of the  multiples of 'K'. If such multiple is found, then we can distribute the rest numbers as we wish (multiples of 10).   
+👉 Also, Note the condition: temp<=nums: as the minimum sum can be temp.   
 Hence, the following code serves the purpose of this question: 
 
 
@@ -64,4 +65,6 @@ public:
     }
 };
 
-
+- Results:   
+![image](https://user-images.githubusercontent.com/64036955/174470114-ff7bd105-d365-4226-a321-ed655200d709.png)
+   
