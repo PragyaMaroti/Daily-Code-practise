@@ -41,3 +41,42 @@ public:
 - Results:  
 ![image](https://user-images.githubusercontent.com/64036955/174632660-1643685a-53f2-4d27-a186-d590d3c54fcb.png)
 
+
+
+### Faster Solution:  
+
+```cpp
+class Solution {
+public:
+    int countPrimes(int n) {
+        // 0,1 - not prime, 2 - not count as we count up to n (exclude n itself)
+        if (n < 3) return 0;
+        
+        // not need to step by even's at all, so half vector size, half steps number
+        vector<bool> prime(n/2, true);
+        int maxi = sqrt(n);
+        
+        //lets count all odds as potential primes
+        int res = n/2;
+        
+        // steps by odds only
+        for (int i = 3; i <= maxi; i+=2) {
+            if (prime[i/2]) {
+                for(int j = i*i; j < n; j += i*2) {
+                    if (prime[j/2]) {
+                        // found another not prime
+                        prime[j/2] = false;
+                        --res;
+                    }
+                }
+            }
+        }
+        
+        // all others are primes
+        return res;
+    }
+};
+```
+- Results: 
+
+
