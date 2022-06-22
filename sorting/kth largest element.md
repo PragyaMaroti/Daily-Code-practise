@@ -51,4 +51,26 @@ public:
  ![image](https://user-images.githubusercontent.com/64036955/175041873-d8722606-2021-4908-92a1-94bc3cd17915.png)
 
 
+### With the magic of STL: 
+
+```CPP
+class Solution {
+public:
+    int findKthLargest(vector<int>& nums, int k) {
+      int n = nums.size();
+        sort(nums.begin(), nums.end());
+        return nums[n-k];
+        
+    }
+};
+```
+
+- Result: 
+![image](https://user-images.githubusercontent.com/64036955/175043477-12ecee25-d004-4caa-a233-2ceaae90cd9c.png)
+ 
+ 
+🤔 Shouldn't we really check-out how STL's Sort work?
+INDEED!!   
+[Here you go](https://www.geeksforgeeks.org/internal-details-of-stdsort-in-c/)  
+
 
