@@ -86,3 +86,33 @@ Results:
 ![image](https://user-images.githubusercontent.com/64036955/174819017-0911a297-f638-48d4-a19f-ae962359600d.png)
 
 
+### Further optimized with lesser space and reduced time! 
+
+```cpp
+class Solution {
+public:
+    int maxProfit(vector<int>& prices) {
+        int n = prices.size();
+       // vector<int> max_elem(n,-1);
+       // max_elem[n-1] = prices[n-1];
+        int max_profit = 0;
+        int max_elem_prev = prices[n-1];
+        int max_elem ;
+        for(int  i=n-2; i>=0; i--)
+        {
+            max_elem = max(max_elem_prev, prices[i]);
+             max_profit = max(max_profit, max_elem- prices[i]);
+            max_elem_prev = max_elem;
+        }
+        
+        
+      
+     return max_profit;
+    }
+   
+};
+```
+
+- Results: 
+
+![image](https://user-images.githubusercontent.com/64036955/174932025-e0054359-0bb8-4ae9-bf1a-2cd56133c866.png)
