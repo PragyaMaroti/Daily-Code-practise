@@ -14,7 +14,7 @@ Based on approaches, the linked questions are as follows:
 
 1. Binary search:
 
-- [2 sum](https://github.com/PragyaMaroti/Daily-Code-practise/blob/main/2%20pointers:%20brute-%20force%2C%20hash%20map%20and%20binary%20search%20approach.md)
+- [Binary search directory](https://github.com/PragyaMaroti/Daily-Code-practise/tree/main/Binary%20search)
 
 
 
