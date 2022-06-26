@@ -100,7 +100,8 @@ public:
 
 - Results:  
 
-![image](https://user-images.githubusercontent.com/64036955/175811274-42cd377d-547f-4e4d-bb1a-40e9652a6eb0.png)
+[image](https://user-images.githubusercontent.com/64036955/175811339-4cae0e01-33af-4a3b-86ce-dd46723a86a4.png)
+
  
  
  ⏰O(log(n)) +o(k)    
