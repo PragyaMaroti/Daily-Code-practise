@@ -50,4 +50,8 @@ public:
 
 ```
 - Results:   
+![image](https://user-images.githubusercontent.com/64036955/176670089-11f73a32-1b31-49fc-a178-81526b133703.png)
+
+
+📔  [visulaization reference](https://labuladong.gitbook.io/algo-en/i.-dynamic-programming/longestcommonsubsequence)
 
